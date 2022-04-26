@@ -1,1 +1,11 @@
-data/
+data/big_data/raw/
+data/big_data/train/
+data/big_data/val/
+data/big_data/train_en.json
+
+data/small_data/train/
+data/small_data/val/
+
+*.ipynb
+*.pyc
+*.ipynb_checkpoints/
